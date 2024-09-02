@@ -56,4 +56,5 @@ This project investigates High-Level Synthesis (HLS) techniques for generating F
 
 ## Conclusion
 
-This project investigates HLS techniques for machine learning models and evaluates their performance on FPGA platforms.
+The project effectively evaluates HLS techniques for ML models by comparing Vivado HLS and HLS4ML results, focusing on performance metrics like latency and resource utilization.
+
