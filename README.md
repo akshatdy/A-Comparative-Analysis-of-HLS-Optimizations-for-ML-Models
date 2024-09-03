@@ -1,4 +1,4 @@
-# Comparative Analysis of HLS Optimizations for HAR CNN Model
+# High-Level Synthesis for Human Activity Recognition Model
 
 ## Project Overview
 
