@@ -1,8 +1,8 @@
-# HLS Optimizations for Human Activity Recognition Model
+# Comparative Analysis of HLS Optimizations for HAR CNN Model
 
 ## Project Overview
 
-This project investigates High-Level Synthesis (HLS) techniques for generating FPGA-compatible code for machine learning models. It involves converting models to C code using Keras2C, performing HLS with Vivado HLS, and applying optimization techniques to improve performance. The optimized code is then compared to results obtained using HLS4ML, focusing on synthesis parameters such as latency and resource utilization.
+This project investigates High-Level Synthesis (HLS) techniques for generating FPGA-compatible code for a CNN-based model designed for Human Activity Recognition. It involves converting models to C code using Keras2C, performing HLS with Vivado HLS, and applying optimization techniques to improve performance. The optimized code is then compared to results obtained using HLS4ML, focusing on synthesis parameters such as latency and resource utilization.
 
 ## Dependencies
 
@@ -56,5 +56,5 @@ This project investigates High-Level Synthesis (HLS) techniques for generating F
 
 ## Conclusion
 
-The project effectively evaluates HLS techniques for ML models by comparing Vivado HLS and HLS4ML results, focusing on performance metrics like latency and resource utilization.
+The project effectively evaluates HLS techniques for HAR CNN model by comparing Vivado HLS and HLS4ML results, focusing on performance metrics like latency and resource utilization.
 
