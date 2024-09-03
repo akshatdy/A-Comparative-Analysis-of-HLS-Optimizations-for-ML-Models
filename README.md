@@ -1,4 +1,4 @@
-# A Comparative Analysis of HLS Optimizations for ML Models
+# HLS Optimizations for Human Activity Recognition Model
 
 ## Project Overview
 
